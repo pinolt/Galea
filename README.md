@@ -1,2 +1,2 @@
-# Cassis
+# Galea
  Switchwire CAN bus umbilical guide.
